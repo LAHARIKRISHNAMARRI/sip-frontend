@@ -7,7 +7,7 @@ export default function SideBar() {
   return (
 
     <div className="w-64 h-screen bg-black text-white p-6">
-
+      
       <h1 className="text-4xl font-bold mb-12">
         Dashboard
       </h1>
@@ -35,7 +35,7 @@ export default function SideBar() {
 
 
         <Link href="/dashboard/add-investor">
-          Add Investor
+          Add Investorshb
         </Link>
 
 
